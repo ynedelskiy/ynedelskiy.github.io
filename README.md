@@ -1,2 +1,3 @@
-# ynedelskiy.github.io
-cybernetics academy web site
+# dimonik.github.io
+
+Web site source of [Cybernetics Academy](http://cybernetics.academy).
